@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Toblerity/Fiona/commit/51cc8e3aad5e3415fac5ed00c988ca5d6aa0277c",
       "git:hexsha": "51cc8e3aad5e3415fac5ed00c988ca5d6aa0277c",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/Toblerity/Fiona/commit/8365fcc52714e088e9af2584cd3355307c55ba69",
